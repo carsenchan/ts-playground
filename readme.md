@@ -1,4 +1,4 @@
-# React-Express-Typescript ###
+# TS-Playground ###
 
 Typescript playground
 
